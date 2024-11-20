@@ -6,7 +6,7 @@ const preCache = [
   "/css/style.css",
   "/js/script.js",
 ];
-const VERSION = "1732071759314";
+const VERSION = "1732071933768";
 const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
